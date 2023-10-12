@@ -1,6 +1,4 @@
 # Module-5-Challenge
-Module 5 Challenge for Data Analytics Bootcamp
-
 #Within is the fifth challenge for the OSU data analytics bootcamp 10/11/2023
 
 #The "Pymaceuticals" folder contains the .ipynb code file and the resource .csv data files (under the folder titled, "data")
